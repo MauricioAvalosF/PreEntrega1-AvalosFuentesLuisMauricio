@@ -1,1 +1,1 @@
-# PreEntrega1-AvalosFuentesLuisMauricio
+# Avances/pre-entregas de mi proyecto en CoderHouse-JavaScript
