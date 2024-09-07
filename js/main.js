@@ -1,3 +1,4 @@
+//declaracion de variables
 let producto = [
     {
         nombre: "MOTO",
